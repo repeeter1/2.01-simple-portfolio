@@ -1,0 +1,24 @@
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: #f1f1f1;
+  padding: 50px;
+}
+
+header,
+main {
+  background: #fff;
+  padding: 25px;
+  margin-bottom: 25px;
+}
+
+#placeholder {
+  border-radius: 50%;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: green;
+  font-size: 2.5em;
+  font-weight: 100;
+  margin-bottom: 0px;
+}
